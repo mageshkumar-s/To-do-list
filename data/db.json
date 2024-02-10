@@ -1,0 +1,14 @@
+{
+    "items":[
+        {
+            "id":1,
+            "checked":true,
+            "itemName":"Develop bank project"
+        },
+        {
+            "id":2,
+            "checked":true,
+            "itemName":"check trades"
+        }
+    ]
+}
